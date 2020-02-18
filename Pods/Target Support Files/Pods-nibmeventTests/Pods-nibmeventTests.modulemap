@@ -1,0 +1,6 @@
+framework module Pods_nibmeventTests {
+  umbrella header "Pods-nibmeventTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
